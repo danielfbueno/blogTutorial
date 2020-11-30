@@ -2,3 +2,5 @@ Este es el archivos
 con linea nueva historial.
 
 Curso de Platzi de Github.
+
+Lleva 3 meses en Open International.
