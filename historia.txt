@@ -4,3 +4,5 @@ con linea nueva historial.
 Curso de Platzi de Github.
 
 Lleva 3 meses en Open International y es ingeniero de sistemas de la univalle.
+
+Linea adicional.
