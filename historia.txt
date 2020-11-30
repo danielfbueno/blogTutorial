@@ -1,6 +1,6 @@
 Este es el archivos 
-con linea nueva historial.
+con linea nueva historial.  
 
 Curso de Platzi de Github.
 
-Lleva 3 meses en Open International.
+Lleva 3 meses en Open International y es ingeniero de sistemas de la univalle.
